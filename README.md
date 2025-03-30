@@ -37,10 +37,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safwanmohmd&show_icons=true&locale=en" alt="safwanmohmd" /><img src="https://streak-stats.demolab.com?user=safwanmohmd&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /></p>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=safwanmohmd&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
