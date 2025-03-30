@@ -37,3 +37,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safwanmohmd&show_icons=true&locale=en" alt="safwanmohmd" /><img src="https://streak-stats.demolab.com?user=safwanmohmd&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /></p>
 
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31342quhck7o5w5jjqya5e3k3thy">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31342quhck7o5w5jjqya5e3k3thy&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
